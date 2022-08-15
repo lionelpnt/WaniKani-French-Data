@@ -14,7 +14,26 @@
     "RADICALS": "Clés",
     "VOCABULARY": "Vocabulaire",
 
+    "LESSONS_SUMMARY": "Résumé des leçons",
+    "START_SESSION": "Démarrer la session",
+
+    "MEANING": "Signification",
+    "READINGS": "Lectures",
+    "EXAMPLES": "Exemples",
+
     "REVIEW_FORECAST": "Prévisions de Révision",
+
+    "WEEKS": {
+        "TODAY": "Aujourd'hui",
+        
+        "MONDAY": "Lundi",
+        "TUESDAY": "Mardi",
+        "WEDNESDAY": "Mercredi",
+        "THURSDAY": "Jeudi",
+        "FRIDAY": "Vendredi",
+        "SATURDAY": "Samedi",
+        "SUNDAY": "Dimanche"
+    },
 
     "LEVEL_PROGRESS_TITLE": "Progression du niveau {{level}}",
     "LEVEL_PROGRESS_DESCRIPTION": "{{kanji_unlocked}} kanji appris sur {{kanji_total}}",
