@@ -10867,5 +10867,71 @@
       ],
       "蛮": [
         "barbare"
+      ],
+      "入": [
+        "entrer",
+        "insérer"
+      ],
+      "川": [
+        "rivière",
+        "fleuve"
+      ],
+      "日": [
+        "jour",
+        "soleil",
+        "Japon",
+        "compteur de jours"
+      ],
+      "今": [
+        "maintenant"
+      ],
+      "斤": [
+        "hache",
+        "kin = 1/160 monme = 600 grammes",
+        "rosse",
+        "compteur de pains"
+      ],
+      "代": [
+        "substituer",
+        "changer",
+        "convertir",
+        "remplacer",
+        "période",
+        "âge",
+        "ère",
+        "génération",
+        "montant d'argent",
+        "taux",
+        "prix",
+        "redevance"
+      ],
+      "全": [
+        "totalité",
+        "entier",
+        "tout",
+        "complet",
+        "accomplir"
+      ],
+      "次": [
+        "suivant",
+        "ordre",
+        "successivement"
+      ],
+      "鳥": [
+        "oiseau",
+        "poulet"
+      ],
+      "欠": [
+        "manquer",
+        "lacune",
+        "rater"
+      ],
+      "究": [
+        "rechercher",
+        "étudier"
+      ],
+      "頁": [
+        "page",
+        "feuille"
       ]
 }
